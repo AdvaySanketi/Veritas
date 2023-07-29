@@ -1,0 +1,14 @@
+  3           0 LOAD_CONST               1 (5)
+              2 STORE_FAST               0 (a)
+
+  4           4 LOAD_CONST               2 (4)
+              6 STORE_FAST               1 (b)
+
+  5           8 LOAD_GLOBAL              0 (print)
+             10 LOAD_GLOBAL              1 (c)
+             12 LOAD_FAST                1 (b)
+             14 BINARY_ADD
+             16 CALL_FUNCTION            1
+             18 POP_TOP
+             20 LOAD_CONST               0 (None)
+             22 RETURN_VALUE

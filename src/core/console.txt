@@ -1,0 +1,6 @@
+Veritas >>> 12:14:58.34 >>> Call to sfunc in File "D:\Quantum_CodeX\MiniProject\gui\core\consoledata.py", line 4
+Veritas >>> 12:14:58.34    4 | def sfunc():
+Veritas >>> 12:14:58.34    5 | 	a = 5
+Veritas >>> 12:14:58.34    6 | 	b = 4
+Veritas >>> 12:14:58.34    7 | 	print(a+b)
+Veritas >>> 12:14:58.34 <<< Return value from sfunc: None
